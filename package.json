@@ -1,5 +1,5 @@
 {
-  "name": "subscriptions-transport-ws",
+  "name": "subscriptions-transport-ws-sym-patch",
   "version": "0.9.16",
   "description": "A websocket transport for GraphQL subscriptions",
   "main": "dist/index.js",
